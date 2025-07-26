@@ -20,7 +20,7 @@ CreatorSync is a real-time collaborative writing platform built using React.js, 
 ![Home Page](frontend/public/home.png)
 
 ### 🤖 AI Writing Assistant  
-![AI Assistant](frontend/public/ai_bot.png)
+![AI Assistant](frontend/public/aibot.png)
 
 ### 🎙️ Speech-to-Text Feature  
 ![Speech-to-Text](frontend/public/speech.png)
